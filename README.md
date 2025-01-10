@@ -3,7 +3,7 @@ AI-powered tool that automates extraction and analysis of nutritional informatio
 
 # Nutrient Analysis from Food Label Images Using Data-Driven Models
 
-**Term Project for CIS 667: Introduction to Artificial Intelligence**
+AI-powered tool developed as a term project for CIS 667: Introduction to Artificial Intelligence. It automates extraction and analysis of nutritional information from food labels using OCR, NLP, and LLMs, delivering personalized dietary insights to simplify health management and empower informed food choices.
 
 ## Project Overview
 
